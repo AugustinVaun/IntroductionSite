@@ -4,7 +4,7 @@ import './Projects.css';
 class Projects extends React.Component{
   render() {
     return (
-      <div className='projects'>
+      <div id='Portfolio' className='projects'>
       <div className='project-X'>
         <p>This right here is a simple project description of what I have done</p>
         <br></br>
