@@ -4,6 +4,17 @@
     align-items: center;
 }
 
-.profile-picture{
-    
+.summary{
+    text-align: justify;
 }
+
+.title{
+    font-size: x-large;
+    color: #f5a0d3;
+}
+
+.subtitle{
+    font-size: large;
+    color: #67f3c9;
+}
+
